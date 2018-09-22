@@ -18,3 +18,9 @@ RSAAuthentication 	no
 PasswordAuthentication 	yes
 PermitEmptyPasswords 	no
 PermitRootLogin 	yes
+
+
+
+
+
+
